@@ -211,12 +211,6 @@ font-size:2rem;
 margin:0.5rem 0;
 }
 
-.education p{
-color:#555;
-margin:1.5rem 0;
-}
-
-
 .skills{
 background-color:#111;
 max-width:800px;
@@ -241,14 +235,5 @@ right:-50%;
 width:45%;
 height:3px;
 }
-
-
-.skills h3{
-color:#f2f2f2;
-font-size:2rem;
-margin:0.5rem 0;
-}
-
-
 
 
